@@ -39,10 +39,15 @@ Displays error message
 ▶️ Example Output
 
 Enter the Value of A : 10
+
 Enter the Value of B : 5
+
 A + B = 15
+
 A - B = 5
+
 A * B = 50
+
 A / B = 2
 
 🚀 How to Run
